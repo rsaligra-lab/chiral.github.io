@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rsaligra-lab.github.io/sitemap.xml
+Sitemap: https://rsaligra-lab.github.io/chiral.github.io//sitemap.xml
